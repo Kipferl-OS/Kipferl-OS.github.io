@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to exploiting croissants hub! on exploiting croissants</title>
+    <link>https://Kipferl-OS.github.io/</link>
+    <description>Recent content in Welcome to exploiting croissants hub! on exploiting croissants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jun 2023 21:56:56 +0300</lastBuildDate><atom:link href="https://Kipferl-OS.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://Kipferl-OS.github.io/projects/</link>
+      <pubDate>Wed, 21 Jun 2023 21:56:56 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/projects/</guid>
+      <description>exploiting-croissants releases # Here&amp;rsquo;s the list of my currently available projects that I have done so far (all of them being available via my github repo):
+Kipferl-OS/Privacy-oriented-Personal-Device-Experience-Project-PPDEPLearn how and why today&amp;rsquo;s consumer smartphones do not prove to offer or guarantee a private environment regarding personal data processing that is happening on that particular smartphone device.null 00Kipferl-OS/Pi-Hole-on-Android-through-linux-image-serverThere&amp;rsquo;s no OS involved really, I just like succumbing myself in whatever distribution comes handy, I may even develop an obsession for it.</description>
+      
+    </item>
+    
+    <item>
+      <title>This is just a test article</title>
+      <link>https://Kipferl-OS.github.io/posts/this-is-just-a-test-article/</link>
+      <pubDate>Wed, 21 Jun 2023 00:27:16 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/posts/this-is-just-a-test-article/</guid>
+      <description>As stated in the other articles, this is currently a work-in-progress (both the full release of the website and its contents).
+Stay tuned once the extension of the exploiting croissants&amp;rsquo; blog is fully released, along with its articles!
+Cheers &amp;amp; mind the brain 😄!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Kipferl-OS.github.io/posts/this-is-just-a-test-article/featured.png" />
+    </item>
+    
+    <item>
+      <title>About the exploiting croissants initiative</title>
+      <link>https://Kipferl-OS.github.io/about/</link>
+      <pubDate>Tue, 20 Jun 2023 23:47:26 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/about/</guid>
+      <description>Check the description ⬇️ # This page is currently a work in progress (I am still trying to find a cool way of displaying my contact information, I guess that&amp;rsquo;s my personal issue here).
+That being said, you can still write &amp;ldquo;summary&amp;rdquo; on the terminal version of the website and fetch my contact card, or if you want to jump straight to the point, you can simply access my GitHub repo.</description>
+      
+    </item>
+    
+    <item>
+      <title>!COMING SOON! Our society&#39;s critical need of applied cognitive sciences</title>
+      <link>https://Kipferl-OS.github.io/posts/the-critical-need-of-applied-cognitive-sciences/</link>
+      <pubDate>Tue, 20 Jun 2023 18:11:32 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/posts/the-critical-need-of-applied-cognitive-sciences/</guid>
+      <description>As stated above, this is currently a work-in-progress (both the full release of the website and its contents).
+Stay tuned once the extension of the exploiting croissants&amp;rsquo; blog is fully released, along with its articles!
+Cheers &amp;amp; mind the brain 😄!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Kipferl-OS.github.io/posts/the-critical-need-of-applied-cognitive-sciences/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>!COMING SOON! THM Security Writeup (June release)</title>
+      <link>https://Kipferl-OS.github.io/posts/thm-security-writeup-june/</link>
+      <pubDate>Tue, 20 Jun 2023 17:32:11 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/posts/thm-security-writeup-june/</guid>
+      <description>As stated above, this is currently a work-in-progress (both the full release of the website and its contents).
+Stay tuned once the extension of the exploiting croissants&amp;rsquo; blog is fully released, along with its articles!
+Cheers 😄!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://Kipferl-OS.github.io/posts/thm-security-writeup-june/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

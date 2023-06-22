@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on exploiting croissants</title>
+    <link>https://Kipferl-OS.github.io/categories/</link>
+    <description>Recent content in Categories on exploiting croissants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jun 2023 21:56:56 +0300</lastBuildDate><atom:link href="https://Kipferl-OS.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>exploiting-croissants</title>
+      <link>https://Kipferl-OS.github.io/categories/exploiting-croissants/</link>
+      <pubDate>Wed, 21 Jun 2023 21:56:56 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/categories/exploiting-croissants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://Kipferl-OS.github.io/categories/projects/</link>
+      <pubDate>Wed, 21 Jun 2023 21:56:56 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://Kipferl-OS.github.io/categories/about/</link>
+      <pubDate>Tue, 20 Jun 2023 23:47:26 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cognitive-sciences</title>
+      <link>https://Kipferl-OS.github.io/categories/cognitive-sciences/</link>
+      <pubDate>Tue, 20 Jun 2023 18:11:32 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/categories/cognitive-sciences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>published</title>
+      <link>https://Kipferl-OS.github.io/categories/published/</link>
+      <pubDate>Tue, 20 Jun 2023 18:11:32 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/categories/published/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security-writeups</title>
+      <link>https://Kipferl-OS.github.io/categories/security-writeups/</link>
+      <pubDate>Tue, 20 Jun 2023 17:32:11 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/categories/security-writeups/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

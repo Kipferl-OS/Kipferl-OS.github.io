@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on exploiting croissants</title>
+    <link>https://Kipferl-OS.github.io/tags/projects/</link>
+    <description>Recent content in projects on exploiting croissants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Jun 2023 21:56:56 +0300</lastBuildDate><atom:link href="https://Kipferl-OS.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://Kipferl-OS.github.io/projects/</link>
+      <pubDate>Wed, 21 Jun 2023 21:56:56 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/projects/</guid>
+      <description>exploiting-croissants releases # Here&amp;rsquo;s the list of my currently available projects that I have done so far (all of them being available via my github repo):
+Kipferl-OS/Privacy-oriented-Personal-Device-Experience-Project-PPDEPLearn how and why today&amp;rsquo;s consumer smartphones do not prove to offer or guarantee a private environment regarding personal data processing that is happening on that particular smartphone device.null 00Kipferl-OS/Pi-Hole-on-Android-through-linux-image-serverThere&amp;rsquo;s no OS involved really, I just like succumbing myself in whatever distribution comes handy, I may even develop an obsession for it.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>THM on exploiting croissants</title>
+    <link>https://Kipferl-OS.github.io/tags/thm/</link>
+    <description>Recent content in THM on exploiting croissants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Jun 2023 17:32:11 +0300</lastBuildDate><atom:link href="https://Kipferl-OS.github.io/tags/thm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>!COMING SOON! THM Security Writeup (June release)</title>
+      <link>https://Kipferl-OS.github.io/posts/thm-security-writeup-june/</link>
+      <pubDate>Tue, 20 Jun 2023 17:32:11 +0300</pubDate>
+      
+      <guid>https://Kipferl-OS.github.io/posts/thm-security-writeup-june/</guid>
+      <description>As stated above, this is currently a work-in-progress (both the full release of the website and its contents).
+Stay tuned once the extension of the exploiting croissants&amp;rsquo; blog is fully released, along with its articles!
+Cheers 😄!</description>
+    </item>
+    
+  </channel>
+</rss>
